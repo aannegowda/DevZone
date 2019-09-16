@@ -24,4 +24,4 @@ MongoDB
     
 5. To run the application, run 
 
-    npm dev
+    npm run dev
